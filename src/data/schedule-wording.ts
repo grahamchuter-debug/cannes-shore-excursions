@@ -1,4 +1,4 @@
-/** Wave 1C schedule disclaimers — customer-facing only. */
+/** Wave 1D schedule disclaimers — customer-facing only. */
 
 export const PARTIAL_YEAR_SCHEDULE_NOTE =
   "The currently published schedule covers verified calls available to us and will be updated as additional port information is confirmed.";

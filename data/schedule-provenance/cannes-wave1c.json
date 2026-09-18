@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-09-18T07:24:51.186Z",
+  "wave": "wave-1c",
+  "port": "cannes",
+  "destSlug": "cannes",
+  "displayName": "Cannes",
+  "portIdentityNote": "Cannes ≠ Villefranche / Nice / Monaco as schedule ports",
+  "minPublishRows": 15,
+  "counts": {
+    "2026": 40,
+    "2027": 93,
+    "2028_discovery": 44,
+    "2028_published": 0,
+    "public_total": 133
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 7 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 7,
+    "tier2AzamaraVenice": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 40,
+      "arrival": 38,
+      "departure": 37,
+      "both": 37,
+      "neither": 2,
+      "pctBoth": 92.5
+    },
+    "2027": {
+      "total": 93,
+      "arrival": 90,
+      "departure": 90,
+      "both": 90,
+      "neither": 3,
+      "pctBoth": 96.8
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "berthPolicy": "unknown — no generic terminals published",
+  "contaminationPurged": [],
+  "wireSchedulesTs": null,
+  "placeholderPurged": true
+}
